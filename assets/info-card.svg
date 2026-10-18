@@ -6,7 +6,6 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:
 </style>
 <rect width="490" height="334" rx="10" fill="#0d1117" stroke="#30363d"/>
 <circle cx="16" cy="14" r="4.5" fill="#ff5f56"/><circle cx="32" cy="14" r="4.5" fill="#ffbd2e"/><circle cx="48" cy="14" r="4.5" fill="#27c93f"/>
-<text x="245.0" y="18" text-anchor="middle" fill="#8b949e" style="font-size:11px">neofetch</text>
 <g class="l" style="animation-delay:0.30s"><text x="22" y="52" fill="#3fb950" font-weight="bold">MariaLimaBeatriz@github</text></g>
 <g class="l" style="animation-delay:0.46s"><text x="22" y="68" fill="#8b949e">────────────────────────────────────────</text></g>
 <g class="l" style="animation-delay:0.62s"><text x="22" y="88" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Nome:        </tspan><tspan fill="#c9d1d9">Maria Beatriz</tspan></text></g>
