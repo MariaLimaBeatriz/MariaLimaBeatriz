@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="362" viewBox="0 0 490 362" role="img" aria-label="Cartão de informações da Bia">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+.l{opacity:0;animation:in .45s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+</style>
+<rect width="490" height="362" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="16" cy="14" r="4.5" fill="#ff5f56"/><circle cx="32" cy="14" r="4.5" fill="#ffbd2e"/><circle cx="48" cy="14" r="4.5" fill="#27c93f"/>
+<text x="245.0" y="18" text-anchor="middle" fill="#8b949e" style="font-size:11px">neofetch</text>
+<g class="l" style="animation-delay:0.30s"><text x="22" y="52" fill="#3fb950" font-weight="bold">bia@github</text></g>
+<g class="l" style="animation-delay:0.46s"><text x="22" y="68" fill="#8b949e">────────────────────────────────────</text></g>
+<g class="l" style="animation-delay:0.62s"><text x="22" y="88" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Nome:     </tspan><tspan fill="#c9d1d9">Bia</tspan></text></g>
+<g class="l" style="animation-delay:0.78s"><text x="22" y="115" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Agora:    </tspan><tspan fill="#c9d1d9">Estudante de ADS desbravando o</tspan></text></g>
+<g class="l" style="animation-delay:0.94s"><text x="22" y="140" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">          </tspan><tspan fill="#c9d1d9">mundo do desenvolvimento</tspan></text></g>
+<g class="l" style="animation-delay:1.10s"><text x="22" y="167" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Foco:     </tspan><tspan fill="#c9d1d9">Java + IA</tspan></text></g>
+<g class="l" style="animation-delay:1.26s"><text x="22" y="194" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Stack:    </tspan><tspan fill="#c9d1d9">Java · SQL · IA generativa</tspan></text></g>
+<g class="l" style="animation-delay:1.42s"><text x="22" y="221" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Bootcamp: </tspan><tspan fill="#c9d1d9">Elastech · SoulCode Academy</tspan></text></g>
+<g class="l" style="animation-delay:1.58s"><text x="22" y="246" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">          </tspan><tspan fill="#c9d1d9">em parceria com o PagBank</tspan></text></g>
+<g class="l" style="animation-delay:1.74s"><text x="22" y="273" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">LinkedIn: </tspan><tspan fill="#c9d1d9">in/maria-beatrizlima</tspan></text></g>
+<g class="l" style="animation-delay:1.90s"><text x="22" y="300" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">E-mail:   </tspan><tspan fill="#c9d1d9">beatrizlima086@gmail.com</tspan></text></g>
+<g class="l" style="animation-delay:2.06s"><rect x="22" y="319" width="24" height="14" rx="2" fill="#ff5f56"/><rect x="48" y="319" width="24" height="14" rx="2" fill="#ffbd2e"/><rect x="74" y="319" width="24" height="14" rx="2" fill="#27c93f"/><rect x="100" y="319" width="24" height="14" rx="2" fill="#58a6ff"/><rect x="126" y="319" width="24" height="14" rx="2" fill="#bc8cff"/><rect x="152" y="319" width="24" height="14" rx="2" fill="#39c5cf"/><rect x="178" y="319" width="24" height="14" rx="2" fill="#c9d1d9"/></g>
+</svg>

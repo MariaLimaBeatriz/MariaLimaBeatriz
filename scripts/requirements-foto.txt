@@ -1,0 +1,4 @@
+# Só necessário localmente, quando você trocar a foto do perfil
+pillow
+numpy
+opencv-python
