@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="./assets/contrib-heatmap.svg" width="860" alt="Gráfico de contribuições da Bia no GitHub" />
 
 <br><br>
 
